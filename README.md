@@ -2,7 +2,8 @@
 
 <!-- Centered div for badges -->
 <div align="center">
-
+  
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](Link)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](Link)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](Link)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](Link)
