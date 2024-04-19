@@ -14,3 +14,13 @@
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](Link)
 
 </div>
+
+## Current progress ⌛ 60%:
+
+### Home page:
+![home](https://github.com/Marouane-Elgoumiri/job_board/assets/96888594/1d2869dc-1eaf-41f4-a3a1-75adb3bfa1c2)
+
+
+### Offer page:
+![offer](https://github.com/Marouane-Elgoumiri/job_board/assets/96888594/82ddb6e2-813a-4715-ae7b-2b2f68b76b14)
+
